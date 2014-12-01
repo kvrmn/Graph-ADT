@@ -1,3 +1,7 @@
+//Kavya Rammohan
+//GraphClient.c
+//Client module to test Graph ADT
+
 #include<stdio.h>
 #include<stdlib.h>
 #include"Graph.h"
